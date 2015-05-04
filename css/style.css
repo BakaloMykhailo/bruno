@@ -239,6 +239,7 @@ input[type="button"]:hover,
 }
 .blog .ba-grid+.ba-grid{
 	margin: 60px 0 80px;
+	margin-left: -65px;
 }
 .blog .blog-container{
 	padding: 15px;
